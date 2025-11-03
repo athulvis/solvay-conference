@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "name": "ഇർവിങ് ലാങ്മ്യൂർ",
+    "name_en": "Irving Langmuir",
+    "photo": "images/Irving_Langmuir.jpg",
+    "bio": "അമേരിക്കൻ രസതന്ത്രജ്ഞനും ഭൗതികശാസ്ത്രജ്ഞനുമായിരുന്നു. 1932-ൽ രസതന്ത്രത്തിൽ നൊബേൽ സമ്മാനം ലഭിച്ചു. ആറ്റോമിക് ഘടനയും ഇലക്ട്രോണുകളുടെ പെരുമാറ്റവും സംബന്ധിച്ചുള്ള അദ്ദേഹത്തിന്റെ പഠനങ്ങൾ പിന്നീട് ക്വാണ്ടം സിദ്ധാന്തം വിശദീകരിച്ച രാസബന്ധനത്തെക്കുറിച്ചുള്ള ധാരണയ്ക്ക് സഹായകമായി. അദ്ദേഹം വാക്വം ട്യൂബുകളും ആറ്റോമിക് ഹൈഡ്രജൻ വെൽഡിങ്ങും വികസിപ്പിക്കുന്നതിലും പങ്കാളിയായിരുന്നു.",
+    "bio_en": "American chemist and physicist. Received the Nobel Prize in Chemistry in 1932. His studies on atomic structure and the behavior of electrons later helped to understand chemical bonding explained by quantum theory. He was also involved in developing vacuum tubes and atomic hydrogen welding.",
+    "Coords": { "x": 270, "y": 1200, "r": 80 }
+  },
+  {
+    "id": 2,
+    "name": "മാക്സ് പ്ലാങ്ക്",
+    "name_en": "Max Planck",
+    "photo": "images/Max_Planck.jpg",
+    "bio": "ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ പിതാവായി കണക്കാക്കുന്നു. 1900-ൽ അദ്ദേഹം ഊർജം നിരന്തരമല്ല, ക്വാണ്ടങ്ങളായി (quanta) മാത്രമേ ഉത്പാദിപ്പിക്കാനോ ആഗിരണം ചെയ്യാനോ കഴിയൂ എന്ന ആശയം അവതരിപ്പിച്ചു. ബ്ലാക്ക്ബോഡി റേഡിയേഷൻ പ്രശ്നം പരിഹരിക്കാൻവേണ്ടി അവതരിപ്പിച്ച ഈ ആശയം പിന്നീട് ക്വാണ്ടം സയൻസിന്റെ അടിസ്ഥാനമായി. പ്ലാങ്കിന്റെ സ്ഥിരാങ്കം (Planck’s constant) ഭൗതികശാസ്ത്രത്തിലെ അടിസ്ഥാനഘടകമായി മാറി. 1918-ൽ ഭൗതികശാസ്ത്രത്തിൽ നൊബേൽ സമ്മാനം ലഭിച്ചു. ഐൻസ്റ്റൈൻ, ബോർ തുടങ്ങിയ യുവ ശാസ്ത്രജ്ഞരെ അദ്ദേഹം പിന്തുണച്ചു. അദ്ദേഹത്തിന്റെ സംഭാവനകൾ ക്ലാസിക്കൽ ഭൗതികശാസ്ത്രത്തിൽനിന്നു ക്വാണ്ടം ഭൗതികശാസ്ത്രത്തിലേക്കു ശാസ്ത്രത്തെ നയിക്കുന്നതിൽ നിർണായകമായിരുന്നു.",
+    "bio_en": "Considered the father of quantum theory. In 1900, he introduced the idea that energy is not continuous, but can only be produced or absorbed in quanta. This idea, presented to solve the blackbody radiation problem, later became the basis of quantum science. Planck's constant became a fundamental element in physics. He received the Nobel Prize in Physics in 1918. He supported young scientists like Einstein and Bohr. His contributions were crucial in leading science from classical physics to quantum physics.",
+    "Coords": { "x": 610, "y": 1220, "r": 80 }
+  },
+  {
+    "id": 3,
+    "name": "മാരി ക്യൂറി",
+    "name_en": "Marie Curie",
+    "photo": "images/Marie_Curie.jpg",
+    "bio": "ഭൗതികശാസ്ത്രത്തിലും രസതന്ത്രത്തിലും നൊബേൽ സമ്മാനം നേടിയ ഏക വ്യക്തി. 1903-ൽ ഭൗതികശാസ്ത്രത്തിലും 1911-ൽ രസതന്ത്രത്തിലും അവാർഡ് ലഭിച്ചു. റേഡിയോ ആക്ടിവിറ്റിയെക്കുറിച്ചുള്ള അവരുടെ ഗവേഷണം ആറ്റോമിക ഘടനയും ക്വാണ്ടം മോഡലുകളും വികസിപ്പിക്കാൻ സഹായിച്ചു. പോളോണിയം, റേഡിയം എന്നീ മൂലകങ്ങൾ കണ്ടെത്തിയതും ആറ്റോമിക വികിരണത്തെക്കുറിച്ചുള്ള പഠനങ്ങളും ഭൗതികശാസ്ത്രത്തിൽ വലിയ സ്വാധീനം ചെലുത്തി. ക്വാണ്ടം സിദ്ധാന്തത്തിൽ നേരിട്ടു പങ്കാളിയല്ലെങ്കിലും, ആധുനിക ആറ്റോമിക സിദ്ധാന്തത്തിന് അവരുടെ സംഭാവനകൾ അത്യന്തം പ്രധാനപ്പെട്ടവയാണ്.",
+    "bio_en": "The only person to win Nobel Prizes in both Physics and Chemistry. Received the awards in Physics in 1903 and Chemistry in 1911. Her research on radioactivity helped develop atomic structure and quantum models. Her discovery of the elements Polonium and Radium and studies on atomic radiation greatly influenced physics. While not directly involved in quantum theory, her contributions to modern atomic theory are highly significant.",
+    "Coords": { "x": 937, "y": 1200, "r": 80 }
+  },
+  {
+    "id": 4,
+    "name": "ഹെൻഡ്രിക് ലോറൻസ്",
+    "name_en": "Hendrik Lorentz",
+    "photo": "images/H.A._Lorentz.jpg",
+    "bio": "1902-ൽ ഭൗതികശാസ്ത്രത്തിൽ നൊബേൽ സമ്മാനം പീറ്റർ സീമാനുമായി പങ്കുവെച്ച ശാസ്ത്രജ്ഞൻ. ആദ്യ 5 സോൾവേ സമ്മേളനങ്ങളിലും അദ്ധ്യക്ഷനായിരുന്നു. ലോറൻസ് ട്രാൻസ്ഫോർമേഷനുകൾ വികസിപ്പിച്ച അദ്ദേഹം ഐൻസ്റ്റൈന്റെ പ്രത്യേക ആപേക്ഷികതാസിദ്ധാന്തത്തിന് അടിസ്ഥാനം ഒരുക്കി. ഇലക്ട്രോണുകളുടെ പെരുമാറ്റം, വികിരണം എന്നിവയെക്കുറിച്ചുള്ള അദ്ദേഹത്തിന്റെ സിദ്ധാന്തങ്ങൾ ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ വളർച്ചയ്ക്കു സഹായകമായി.",
+    "bio_en": "Scientist who shared the Nobel Prize in Physics in 1902 with Pieter Zeeman. He chaired the first 5 Solvay Conferences. He developed the Lorentz transformations, which laid the foundation for Einstein's special theory of relativity. His theories on the behavior of electrons and radiation aided the development of quantum theory.",
+    "Coords": { "x": 1320, "y": 1230, "r": 80 }
+  },
+  {
+    "id": 5,
+    "name": "ആൽബെർട്ട് ഐൻസ്റ്റൈൻ",
+    "name_en": "Albert Einstein",
+    "photo": "images/Albert_Einstein_1947.jpg",
+    "bio": "ചരിത്രത്തിലെ ഏറ്റവും സ്വാധീനമുള്ള ശാസ്ത്രജ്ഞനാണ്. 1921-ൽ ഫോട്ടോഇലക്ട്രിക് ഇഫക്റ്റ് വിശദീകരിച്ചതിന് നൊബേൽ സമ്മാനം ലഭിച്ചു. ഇത് ക്വാണ്ടം സിദ്ധാന്തത്തിനു ശക്തമായ തെളിവായി മാറി. ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ തുടക്കത്തിൽ വലിയ സംഭാവനകൾ നൽകിയെങ്കിലും അതിന്റെ സാധ്യതാത്മക (probabilistic) സ്വഭാവത്തെക്കുറിച്ച് അദ്ദേഹം സംശയിച്ചു. 1927-ലെ സോൾവേ കോൺഫറൻസിൽ നീൽസ് ബോറുമായി നടത്തിയ സംവാദങ്ങൾ ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ തത്വചിന്താ അടിസ്ഥാനങ്ങൾ രൂപപ്പെടുത്താൻ സഹായിച്ചു. ഫോട്ടോൺ, തരംഗ-കണിക ദ്വന്ദ്വം, ബോസ്-ഐൻസ്റ്റൈൻ സ്റ്റാറ്റിസ്റ്റിക്സ് എന്നിവയിലെ അദ്ദേഹത്തിന്റെ സംഭാവനകൾ ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ അടിസ്ഥാനഘടകങ്ങളാണ്. ആപേക്ഷികതാസിദ്ധാന്തം രൂപപ്പെടുത്തിയും അദ്ദേഹം ശാസ്ത്രത്തെ വിപ്ലവകരമായി മാറ്റി.",
+    "bio_en": "One of the most influential scientists in history. Received the Nobel Prize in 1921 for explaining the photoelectric effect, which provided strong evidence for quantum theory. Although he made great contributions to the early development of quantum theory, he doubted its probabilistic nature. His debates with Niels Bohr at the 1927 Solvay Conference helped shape the philosophical foundations of quantum theory. His contributions to the photon, wave-particle duality, and Bose-Einstein statistics are fundamental components of quantum theory. He also revolutionized science by developing the theory of relativity.",
+    "Coords": { "x": 1715, "y": 1190, "r": 80 }
+  },
+  {
+    "id": 6,
+    "name": "പോൾ ലാങ്‌വിൻ",
+    "name_en": "Paul Langevin",
+    "photo": "images/Paul_Langevin.jpg",
+    "bio": "ഫ്രഞ്ച് ഭൗതികശാസ്ത്രജ്ഞനാണ്. മാഗ്നറ്റിസം, ബ്രൗണിയൻ ചലനം, സോണാർ എന്നിവയിൽ അദ്ദേഹം സംഭാവനകൾ നൽകി. ക്വാണ്ടം സിദ്ധാന്തം വികസിപ്പിക്കാൻ അദ്ദേഹം പിന്തുണ നൽകി. ഐൻസ്റ്റൈന്റെ സിദ്ധാന്തങ്ങൾ ഫ്രാൻസിൽ പ്രചരിപ്പിക്കാൻ അദ്ദേഹം പ്രധാന പങ്കു വഹിച്ചു.",
+    "bio_en": "French physicist. He contributed to magnetism, Brownian motion, and sonar. He supported the development of quantum theory. He played a key role in popularizing Einstein's theories in France.",
+    "Coords": { "x": 2040, "y": 1200, "r": 80 }
+  },
+  {
+    "id": 7,
+    "name": "ചാൾസ്-യൂജീൻ ഗൈ",
+    "name_en": "Charles-Eugène Guye",
+    "photo": "",
+    "bio": "സ്വിസ് ശാസ്ത്രജ്ഞനാണ്. ഇലക്ട്രോണുകളുടെ പെരുമാറ്റം, ആറ്റങ്ങളുടെ ഇൻ്ററാക്‌ഷൻ എന്നിവയിൽ ഗവേഷണം നടത്തി. ആപേക്ഷികതാസിദ്ധാന്തത്തെ പിന്തുണയ്ക്കുന്ന പരീക്ഷണങ്ങൾ നടത്തി.",
+    "bio_en": "Swiss scientist. Conducted research on the behavior of electrons and the interaction of atoms. Performed experiments supporting the theory of relativity.",
+    "Coords": {}
+  },
+  {
+    "id": 8,
+    "name": "സി. ടി. ആർ. വിൽസൺ",
+    "name_en": "C. T. R. Wilson",
+    "photo": "images/CTR_Wilson.jpg",
+    "bio": "ക്ലൗഡ് ചേംബർ എന്ന ഉപകരണം കണ്ടുപിടിച്ച സ്കോട്ടിഷ് ശാസ്ത്രജ്ഞനാണ്. 1927-ൽ ഭൗതികശാസ്ത്രത്തിൽ നൊബേൽ സമ്മാനം ലഭിച്ചു. ക്വാണ്ടം കണങ്ങൾ, വികിരണം എന്നിവയുടെ ദൃശ്യതെളിവുകൾ നൽകാൻ ഈ ഉപകരണം സഹായിച്ചു.",
+    "bio_en": "Scottish scientist who invented the Cloud Chamber. Received the Nobel Prize in Physics in 1927. This instrument helped provide visual evidence of quantum particles and radiation.",
+    "Coords": { "x": 2650, "y": 1220, "r": 80 }
+  },
+  {
+    "id": 9,
+    "name": "ഓവൻ വില്യംസ് റിച്ചാർഡ്സൺ",
+    "name_en": "Owen Williams Richardson",
+    "photo": "images/Owen_Richardson.jpg",
+    "bio": "താപ ഉത്സർജിത ഇലക്ട്രോണുകളുടെ പഠനത്തിന് 1928-ൽ നൊബേൽ സമ്മാനം നേടി. ഇലക്ട്രോണുകളുടെ പെരുമാറ്റത്തെക്കുറിച്ചുള്ള ക്വാണ്ടം മോഡലുകൾക്ക് ഇതു സഹായകമായി.",
+    "bio_en": "Won the Nobel Prize in 1928 for his study of thermionic electrons. This contributed to quantum models of electron behavior.",
+    "Coords": { "x": 2900, "y": 1240, "r": 80 }
+  },
+  {
+    "id": 10,
+    "name": "പീറ്റർ ഡെബൈ",
+    "name_en": "Peter Debye",
+    "photo": "images/Debye100.jpg",
+    "bio": "1936-ൽ രസതന്ത്രത്തിൽ നൊബേൽ സമ്മാനം നേടിയ ഡച്ച്-അമേരിക്കൻ ശാസ്ത്രജ്ഞനാണ്. ഡെബൈ മോഡൽ വഴി ക്വാണ്ടം സ്റ്റാറ്റിസ്റ്റിക്സ് ഉപയോഗിച്ച് ഖരവസ്തുക്കളുടെ ഹീറ്റ് കപ്പാസിറ്റി വിശദീകരിച്ചു.",
+    "bio_en": "Dutch-American scientist who won the Nobel Prize in Chemistry in 1936. Explained the heat capacity of solids using quantum statistics through the Debye model.",
+    "Coords": { "x": 170, "y": 1100, "r": 80 }
+  },
+  {
+    "id": 11,
+    "name": "മാർട്ടിൻ ക്നുട്‌സൻ",
+    "name_en": "Martin Knudsen",
+    "photo": "",
+    "bio": "ഡാനിഷ് ശാസ്ത്രജ്ഞനാണ്. ക്നുട്‌സൻ നമ്പർ എന്നത് ഗ്യാസ് ഡൈനാമിക്സിൽ പ്രധാനപ്പെട്ട ആശയമാണ്. ക്വാണ്ടം സിദ്ധാന്തത്തിൽ നേരിട്ടു പങ്കാളിയല്ലെങ്കിലും സ്റ്റാറ്റിസ്റ്റിക്സ് പഠനത്തിനു സഹായകമായ ഗവേഷണങ്ങൾ നടത്തി.",
+    "bio_en": "Danish scientist. Knudsen number is an important concept in gas dynamics. Although not directly involved in quantum theory, he conducted research that helped the study of statistics.",
+    "Coords": {}
+  },
+  {
+    "id": 12,
+    "name": "വില്ല്യം ലോറൻസ് ബ്രാഗ്",
+    "name_en": "William Lawrence Bragg",
+    "photo": "images/Wl-bragg.jpg",
+    "bio": "1915-ൽ പിതാവുമായി പങ്കുവെച്ച് നൊബേൽ സമ്മാനം നേടിയ ബ്രിട്ടീഷ് ശാസ്ത്രജ്ഞൻ. എക്സ്-റേ ക്രിസ്റ്റലോഗ്രഫി വികസിപ്പിച്ചു. ആറ്റോമികഘടനയെക്കുറിച്ചുള്ള ക്വാണ്ടം വിശദീകരണങ്ങൾക്ക് അത് അടിസ്ഥാനമായി.",
+    "bio_en": "British scientist who shared the Nobel Prize with his father in 1915. Developed X-ray crystallography, which became the basis for quantum explanations of atomic structure.",
+    "Coords": { "x": 780, "y": 1105, "r": 80 }
+  },
+  {
+    "id": 13,
+    "name": "ഹാൻസ് ക്രാമേഴ്സ്",
+    "name_en": "Hans Kramers",
+    "photo": "",
+    "bio": "പ്രശസ്ത ഡച്ച് തിയററ്റിക്കൽ ഫിസിസിസ്റ്റായിരുന്നു. ക്വാണ്ടം മെക്കാനിക്സിന്റെ വികാസത്തിൽ അദ്ദേഹത്തിന്റെ സംഭാവനകൾ ശ്രദ്ധേയമാണ്. ക്രാമേഴ്സ്-ക്രോണിഗ് ബന്ധം (Kramers-Kronig relation) ഒപ്റ്റിക്സിലും സ്പെക്ട്രോസ്കോപ്പിയിലും പ്രധാനമാണ്. ബോർ മോഡലിന്റെ വിപുലീകരണത്തിനും ക്വാണ്ടം തിയറിയിലെ ഡിസ്പേഴ്സൻ സിദ്ധാന്തത്തിനും അദ്ദേഹം സംഭാവന നൽകി. ക്രാമേഴ്സ് തന്റെ ഗവേഷണങ്ങളിലൂടെ ആധുനിക ഫിസിക്സിന്റെ പല മേഖലകളിലും സ്വാധീനം ചെലുത്തി.",
+    "bio_en": "Famous Dutch theoretical physicist. His contributions to the development of quantum mechanics are noteworthy. The Kramers-Kronig relation is important in optics and spectroscopy. He contributed to the extension of the Bohr model and the dispersion theory in quantum theory. Kramers influenced many areas of modern physics through his research.",
+    "Coords": {}
+  },
+  {
+    "id": 14,
+    "name": "പോൾ ഡിറാക്",
+    "name_en": "Paul Dirac",
+    "photo": "images/Paul_dirac_1933.jpg",
+    "bio": "ഇംഗ്ലീഷ് തിയററ്റിക്കൽ ഫിസിസിസ്റ്റായിരുന്നു, ക്വാണ്ടം മെക്കാനിക്സിന്റെ സ്ഥാപകരിൽ ഒരാളാണ്. ഡിറാക് സമവാക്യം (Dirac Equation) രൂപപ്പെടുത്തിയത് ഇലക്ട്രോണിന്റെ ക്വാണ്ടം പെരുമാറ്റം വിശദീകരിക്കുന്നതിനാണ്. ഇത് പോസിട്രോണിന്റെ (positron) പ്രവചനത്തിന് കാരണമായി. 1933-ൽ അദ്ദേഹത്തിന് ഫിസിക്സിനുള്ള നൊബേൽ സമ്മാനം ലഭിച്ചു. ക്വാണ്ടം ഫീൽഡ് തിയറിയുടെ വികാസത്തിനും സംഭാവന നൽകി.",
+    "bio_en": "English theoretical physicist and one of the founders of quantum mechanics. He formulated the Dirac Equation to explain the quantum behavior of the electron, which led to the prediction of the positron. He received the Nobel Prize in Physics in 1933. He also contributed to the development of Quantum Field Theory.",
+    "Coords": { "x": 1510, "y": 1085, "r": 80 }
+  },
+  {
+    "id": 15,
+    "name": "ആർതർ കോംപ്റ്റൺ",
+    "name_en": "Arthur Compton",
+    "photo": "images/Arthur_Crompton_1927.jpg",
+    "bio": "ഒരു അമേരിക്കൻ ഫിസിസിസ്റ്റായിരുന്നു. എക്സ്-റേകളുടെ ചിതറൽ (Scattering) പഠനത്തിലൂടെ അദ്ദേഹം പ്രശസ്തനായി. കോംപ്റ്റൺ പ്രഭാവം (Compton Effect) ഫോട്ടോണുകളുടെ കണികാസ്വഭാവം തെളിയിച്ചു, ഇത് ക്വാണ്ടം തിയറിയുടെ സ്ഥിരീകരണത്തിനു സഹായിച്ചു. 1927-ൽ അദ്ദേഹത്തിന് ഫിസിക്സിനുള്ള നൊബേൽ സമ്മാനം ലഭിച്ചു. കോംപ്റ്റന്റെ ഗവേഷണങ്ങൾ ആധുനിക ഫിസിക്സിന്റെ വികാസത്തിൽ നിർണായകമായി.",
+    "bio_en": "An American physicist. He became famous for his study of X-ray scattering. The Compton Effect proved the particle nature of photons, which helped confirm quantum theory. He received the Nobel Prize in Physics in 1927. Compton's research was crucial to the development of modern physics.",
+    "Coords": { "x": 1810, "y": 1080, "r": 80 }
+  },
+  {
+    "id": 16,
+    "name": "ലൂയി ദി ബ്രോയി",
+    "name_en": "Louis de Broglie",
+    "photo": "images/Broglie_Big.jpg",
+    "bio": "ഫ്രഞ്ച് ഫിസിസിസ്റ്റാണ്. പദാർത്ഥത്തിന്റെ തരംഗ-കണികാദ്വൈതസ്വഭാവം (Wave-Particle Duality) അദ്ദേഹം പ്രവചിച്ചു, ഇത് ദി ബ്രോയി ഹൈപ്പോതസിസ് എന്നറിയപ്പെടുന്നു. ഇലക്ട്രോണുകൾക്കു തരംഗസ്വഭാവമുണ്ടെന്ന് അദ്ദേഹം തെളിയിച്ചു, ഇത് ക്വാണ്ടം മെക്കാനിക്സിന്റെ അടിസ്ഥാന തത്വങ്ങളിൽ ഒന്നാണ്. 1929-ൽ ഫിസിക്സിനുള്ള നൊബേൽ സമ്മാനം ലഭിച്ചു.",
+    "bio_en": "French physicist. He predicted the wave-particle duality of matter, known as the de Broglie hypothesis. He demonstrated that electrons have wave properties, which is one of the fundamental principles of quantum mechanics. He received the Nobel Prize in Physics in 1929.",
+    "Coords": { "x": 2140, "y": 1100, "r": 80 }
+  },
+  {
+    "id": 17,
+    "name": "മാക്സ് ബോൺ",
+    "name_en": "Max Born",
+    "photo": "images/Max_Born.jpg",
+    "bio": "1954-ൽ നൊബേൽ സമ്മാനം നേടിയ ജർമ്മൻ ശാസ്ത്രജ്ഞനാണ്. തരംഗഫങ്‌ഷന്റെ സാധ്യതാവ്യാഖ്യാനം (probability interpretation) അവതരിപ്പിച്ചു. ക്വാണ്ടം മെക്കാനിക്സിന്റെ ഗണിതപരമായ അടിസ്ഥാനങ്ങൾ രൂപപ്പെടുത്തി. ഹൈസൻബർഗ്, പൗളി തുടങ്ങിയവരുടെ ഗുരുവായിരുന്നു.",
+    "bio_en": "German scientist who won the Nobel Prize in 1954. Introduced the probability interpretation of the wave function. Developed the mathematical foundations of quantum mechanics. He was the mentor of scientists like Heisenberg and Pauli.",
+    "Coords": { "x": 2470, "y": 1110, "r": 80 }
+  },
+  {
+    "id": 18,
+    "name": "നീൽസ് ബോർ",
+    "name_en": "Niels Bohr",
+    "photo": "images/Niels_Bohr.jpg",
+    "bio": "1922-ൽ നൊബേൽ സമ്മാനം നേടിയ ഡാനിഷ് ശാസ്ത്രജ്ഞനാണ്. ക്വാണ്ടം ഓർബിറ്റുകൾ ഉൾപ്പെടുത്തിയ ആറ്റോമിക് മോഡൽ അവതരിപ്പിച്ചു. കോപ്പൻഹേഗൻ വ്യാഖ്യാനം, കോംപ്ലിമെൻ്റാരിറ്റി സിദ്ധാന്തം എന്നിവ രൂപപ്പെടുത്തി. ഐൻസ്റ്റൈനുമായി നടത്തിയ സംവാദങ്ങൾ ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ തത്വചിന്താ അടിസ്ഥാനങ്ങൾ രൂപപ്പെടുത്തി.",
+    "bio_en": "Danish scientist who won the Nobel Prize in 1922. Introduced the atomic model incorporating quantum orbits. Developed the Copenhagen interpretation and the complementarity principle. His debates with Einstein shaped the philosophical foundations of quantum theory.",
+    "Coords": {"x": 2770, "y": 1125, "r": 80}
+  },
+  {
+    "id": 19,
+    "name": "ഓഗസ്റ്റ് പിക്കാർഡ്",
+    "name_en": "Auguste Piccard",
+    "photo": "images/Auguste_Piccard.jpg",
+    "bio": "സ്വിസ് ശാസ്ത്രജ്ഞനും കണ്ടുപിടുത്തക്കാരനുമാണ്. ക്വാണ്ടം സിദ്ധാന്തത്തിൽ പങ്കാളിയല്ലെങ്കിലും, ഐൻസ്റ്റൈന്റെ സുഹൃത്തായും പരീക്ഷണാത്മകശാസ്ത്രജ്ഞനായും പ്രശസ്തനാണ്. രണ്ട് രസകരമായ റിക്കാർഡുകളുടെ ഉടമയാണ് അദ്ദേഹം. 1931-ൽ 15.781 കിലോമീറ്റർ ഉയരത്തിലേക്ക് ഹൈഡ്രജൻ ബലൂണിൽ ഉയർന്ന് ആദ്യമായി സ്ട്രാറ്റോസ്ഫിയറിൽ എത്തി. 1953-ൽ 69-ാം വയസ്സിൽ സ്വന്തമായി രൂപകല്പന ചെയ്ത ബാത്തിസ്കേപ്പിൽ സ്വന്തം മകനോടൊപ്പം കടലിൽ 3.150 കിലോമീറ്റർ ആഴത്തിലെത്തി മറ്റൊരു റിക്കാർഡും കരസ്ഥമാക്കി.",
+    "bio_en": "Swiss scientist and inventor. Although not involved in quantum theory, he is famous as a friend of Einstein and an experimental scientist. He holds two interesting records: In 1931, he became the first person to reach the stratosphere by ascending to 15.781 km in a hydrogen balloon. In 1953, at the age of 69, he set another record by descending to a depth of 3.150 km in the sea with his son in his self-designed bathyscaphe.",
+    "Coords": { "x": 520, "y": 820, "r": 80 }
+  },
+  {
+    "id": 20,
+    "name": "എമിൽ ഹെൻറിയോ",
+    "name_en": "Émile Henriot",
+    "photo": "",
+    "bio": "ഫ്രഞ്ച് ശാസ്ത്രജ്ഞനാണ്. പോട്ടാസ്യം, റുബിഡിയം എന്നിവ സ്വാഭാവികമായി റേഡിയോ ആക്ടീവ് ആണെന്നു തെളിയിച്ചു. ആറ്റോമികഘടനയെക്കുറിച്ചുള്ള ക്വാണ്ടം മോഡലുകൾക്ക് ഇതു സഹായകമായി.",
+    "bio_en": "French scientist. Proved that Potassium and Rubidium are naturally radioactive. This helped in quantum models of atomic structure.",
+    "Coords": {}
+  },
+  {
+    "id": 21,
+    "name": "പോൾ എറൻഫെസ്റ്റ്",
+    "name_en": "Paul Ehrenfest",
+    "photo": "",
+    "bio": "ഓസ്ട്രിയൻ-ഡച്ച് ശാസ്ത്രജ്ഞൻ. ക്വാണ്ടം സിദ്ധാന്തം, സ്റ്റാറ്റിസ്റ്റിക്കൽ മെക്കാനിക്സ് എന്നിവയിൽ സംഭാവനകൾ നൽകി. എറൻഫെസ്റ്റ് തിയറം ക്ലാസിക്കൽ-ക്വാണ്ടം ബന്ധം വ്യക്തമാക്കുന്നു.",
+    "bio_en": "Austrian-Dutch scientist. Contributed to quantum theory and statistical mechanics. Ehrenfest's theorem clarifies the classical-quantum relation.",
+    "Coords": {},
+    "photo": ""
+  },
+  {
+    "id": 22,
+    "name": "എഡ്വാർഡ് ഹെർസൻ",
+    "name_en": "Édouard Herzen",
+    "photo": "",
+    "bio": "ബെൽജിയൻ ശാസ്ത്രജ്ഞനും തത്വചിന്തകനുമാണ്. ക്വാണ്ടം സിദ്ധാന്തത്തിൽ നേരിട്ടു പങ്കാളിയല്ലെങ്കിലും സോൾവേ കോൺഫറൻസുകൾ സംഘടിപ്പിക്കുന്നതിൽ പങ്കാളിയായിരുന്നു.",
+    "bio_en": "Belgian scientist and philosopher. Although not directly involved in quantum theory, he was involved in organizing the Solvay Conferences.",
+    "Coords": {}
+  },
+  {
+    "id": 23,
+    "name": "തിയോഫിൽ ഡി ഡോണ്ടർ",
+    "name_en": "Théophile de Donder",
+    "photo": "",
+    "bio": "ബെൽജിയൻ ഭൗതികശാസ്ത്രജ്ഞനും ഗണിതജ്ഞനും. ആപേക്ഷികതയും താപഗതികശാസ്ത്രവും സംബന്ധിച്ച ഗവേഷണങ്ങൾ നടത്തി. ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ ഗണിതപരമായ അടിസ്ഥാനങ്ങൾ രൂപപ്പെടുത്താൻ സഹായിച്ചു.",
+    "bio_en": "Belgian physicist and mathematician. Conducted research on relativity and thermodynamics. Helped to establish the mathematical foundations of quantum theory.",
+    "Coords": {}
+  },
+  {
+    "id": 24,
+    "name": "എർവിൻ ഷ്രോഡിങ്ഗർ",
+    "name_en": "Erwin Schrödinger",
+    "photo": "images/Erwin_Schrodinger.jpg",
+    "bio": "1933-ൽ ഭൗതികശാസ്ത്രത്തിൽ നൊബേൽ സമ്മാനം നേടിയ ഓസ്ട്രിയൻ ശാസ്ത്രജ്ഞൻ. ഷ്രോഡിങ്ഗർ സമവാക്യം ക്വാണ്ടം സിസ്റ്റങ്ങൾ എങ്ങനെ മാറുന്നു എന്നു വിശദീകരിക്കുന്നു. തരംഗസിദ്ധാന്തം രൂപപ്പെടുത്തുകയും, ‘ഷ്രോഡിങ്ഗറിന്റെ പൂച്ച’ എന്ന പ്രശസ്തമായ പാരഡോക്സ് അവതരിപ്പിക്കുകയും ചെയ്തു.",
+    "bio_en": "Austrian scientist who won the Nobel Prize in Physics in 1933. Schrödinger's equation explains how quantum systems change. He developed wave mechanics and introduced the famous 'Schrödinger's Cat' paradox.",
+    "Coords": {"x": 1765, "y": 890, "r": 80 }
+  },
+  {
+    "id": 25,
+    "name": "ജൂൾസ്-എമിൽ വെർഷാഫെൽട്ട്",
+    "name_en": "Jules-Émile Verschaffelt",
+    "photo": "",
+    "bio": "ബെൽജിയൻ ശാസ്ത്രജ്ഞനാണ്. തെർമോഡൈനാമിക്സ്, സ്റ്റാറ്റിസ്റ്റിക്സ് എന്നിവയിൽ ഗവേഷണം നടത്തി.",
+    "bio_en": "Belgian scientist. Conducted research in thermodynamics and statistics.",
+    "Coords": {}
+  },
+  {
+    "id": 26,
+    "name": "വോൾഫ്‌ഗാങ് പൗളി",
+    "name_en": "Wolfgang Pauli",
+    "photo": "images/Pauli.jpg",
+    "bio": "1945-ൽ നൊബേൽ സമ്മാനം നേടിയ ഓസ്ട്രിയൻ സിദ്ധാന്ത ഭൗതികശാസ്ത്രജ്ഞനാണ്. പൗളി എക്സ്ക്ലൂഷൻ പ്രിൻസിപ്പിൾ ആറ്റങ്ങളുടെ ഘടനയും പീരിയോഡിക് ടേബിളും വിശദീകരിക്കുന്നു. ക്വാണ്ടം ഫീൽഡ് തിയറിയിലും സംഭാവനകൾ നൽകി.",
+    "bio_en": "Austrian theoretical physicist who won the Nobel Prize in 1945. Pauli Exclusion Principle explains the structure of atoms and the periodic table. He also contributed to Quantum Field Theory.",
+    "Coords": {"x": 2230, "y": 900, "r": 80 }
+  },
+  {
+    "id": 27,
+    "name": "വെർണർ ഹൈസൻബർഗ്",
+    "name_en": "Werner Heisenberg",
+    "photo": "images/Werner_Heisenberg.jpg",
+    "bio": "1932-ൽ നൊബേൽ സമ്മാനം നേടിയ ജർമ്മൻ ശാസ്ത്രജ്ഞൻ. ക്വാണ്ടം മെക്കാനിക്സിന്റെ മെട്രിക്സ് രൂപം വികസിപ്പിച്ചു. ഹൈസൻബർഗ് അനിശ്ചിതത്വസിദ്ധാന്തം ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ അടിസ്ഥാനതത്വങ്ങളിലൊന്നാണ്.",
+    "bio_en": "German scientist who won the Nobel Prize in 1932. Developed the matrix form of quantum mechanics. Heisenberg's Uncertainty Principle is one of the fundamental principles of quantum theory.",
+    "Coords": {"x": 2490, "y": 890, "r": 80}
+  },
+  {
+    "id": 28,
+    "name": "റാൽഫ് ഫൗളർ",
+    "name_en": "Ralph Fowler",
+    "photo": "",
+    "bio": "ബ്രിട്ടീഷ് ശാസ്ത്രജ്ഞൻ. ഫെർമി-ഡിറാക് സ്റ്റാറ്റിസ്റ്റിക്സ് വികസിപ്പിക്കാൻ സഹായിച്ചു. ക്വാണ്ടം തെർമോഡൈനാമിക്സ് , നക്ഷത്രങ്ങളുടെ ഘടന എന്നിവയിൽ സംഭാവനകൾ നൽകി.",
+    "bio_en": "British scientist. Helped develop Fermi-Dirac statistics. Contributed to quantum thermodynamics and the structure of stars.",
+    "Coords": {}
+  },
+  {
+    "id": 29,
+    "name": "ലിയോൺ ബ്രില്ലൂവിൻ",
+    "name_en": "Léon Brillouin",
+    "photo": "",
+    "bio": "ഫ്രഞ്ച് ശാസ്ത്രജ്ഞനാണ്. ബ്രില്ലൂവിൻ സോൺ, തരംഗപ്രചരണം എന്നിവയിൽ ഗവേഷണം നടത്തി. ഖരവസ്തുക്കളുടെ ഭൗതികശാസ്ത്രത്തിൽ ക്വാണ്ടം സിദ്ധാന്തം ഉപയോഗിച്ചു സംഭാവനകൾ നൽകി.",
+    "bio_en": "French scientist. Conducted research on Brillouin zone and wave propagation. Contributed to the physics of solids using quantum theory.",
+    "Coords": {},
+    "photo": ""
+  }
+]
