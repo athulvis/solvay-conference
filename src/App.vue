@@ -17,7 +17,7 @@
         loop
         muted
         class="idle-video">
-        <source src="idle-video.mp4" type="video/mp4">
+        <source src="./assets/idle-video.mp4" type="video/mp4">
       </video>
     </div>
 
