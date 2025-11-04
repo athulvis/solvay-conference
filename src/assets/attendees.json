@@ -120,7 +120,7 @@
     "id": 14,
     "name": "പോൾ ഡിറാക്",
     "name_en": "Paul Dirac",
-    "photo": "images/Paul_dirac_1933.jpg",
+    "photo": "images/Paul_Dirac_1933.jpg",
     "bio": "ഇംഗ്ലീഷ് തിയററ്റിക്കൽ ഫിസിസിസ്റ്റായിരുന്നു, ക്വാണ്ടം മെക്കാനിക്സിന്റെ സ്ഥാപകരിൽ ഒരാളാണ്. ഡിറാക് സമവാക്യം (Dirac Equation) രൂപപ്പെടുത്തിയത് ഇലക്ട്രോണിന്റെ ക്വാണ്ടം പെരുമാറ്റം വിശദീകരിക്കുന്നതിനാണ്. ഇത് പോസിട്രോണിന്റെ (positron) പ്രവചനത്തിന് കാരണമായി. 1933-ൽ അദ്ദേഹത്തിന് ഫിസിക്സിനുള്ള നൊബേൽ സമ്മാനം ലഭിച്ചു. ക്വാണ്ടം ഫീൽഡ് തിയറിയുടെ വികാസത്തിനും സംഭാവന നൽകി.",
     "bio_en": "English theoretical physicist and one of the founders of quantum mechanics. He formulated the Dirac Equation to explain the quantum behavior of the electron, which led to the prediction of the positron. He received the Nobel Prize in Physics in 1933. He also contributed to the development of Quantum Field Theory.",
     "Coords": { "x": 1510, "y": 1085, "r": 80 }
@@ -129,7 +129,7 @@
     "id": 15,
     "name": "ആർതർ കോംപ്റ്റൺ",
     "name_en": "Arthur Compton",
-    "photo": "images/Arthur_Crompton_1927.jpg",
+    "photo": "images/Arthur_Compton_1927.jpg",
     "bio": "ഒരു അമേരിക്കൻ ഫിസിസിസ്റ്റായിരുന്നു. എക്സ്-റേകളുടെ ചിതറൽ (Scattering) പഠനത്തിലൂടെ അദ്ദേഹം പ്രശസ്തനായി. കോംപ്റ്റൺ പ്രഭാവം (Compton Effect) ഫോട്ടോണുകളുടെ കണികാസ്വഭാവം തെളിയിച്ചു, ഇത് ക്വാണ്ടം തിയറിയുടെ സ്ഥിരീകരണത്തിനു സഹായിച്ചു. 1927-ൽ അദ്ദേഹത്തിന് ഫിസിക്സിനുള്ള നൊബേൽ സമ്മാനം ലഭിച്ചു. കോംപ്റ്റന്റെ ഗവേഷണങ്ങൾ ആധുനിക ഫിസിക്സിന്റെ വികാസത്തിൽ നിർണായകമായി.",
     "bio_en": "An American physicist. He became famous for his study of X-ray scattering. The Compton Effect proved the particle nature of photons, which helped confirm quantum theory. He received the Nobel Prize in Physics in 1927. Compton's research was crucial to the development of modern physics.",
     "Coords": { "x": 1810, "y": 1080, "r": 80 }

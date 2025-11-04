@@ -45,7 +45,7 @@
       <div class="modal-dialog modal-dialog-centered modal-xl">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title">
+            <h5 class="modal-title modal-title-anek">
               {{ currentLang === 'en' ? selectedPerson.name_en : selectedPerson.name }}
             </h5>
             <button type="button"
@@ -58,15 +58,15 @@
               <!-- Left: Photo -->
               <div class="col-md-4 text-center">
                 <img :src="selectedPerson.photo"
-                     :alt="currentLang === 'en' ? selectedPerson.name_en : selectedPerson.name"
-                     class="profile-photo rounded-circle img-fluid">
+                    :alt="currentLang === 'en' ? selectedPerson.name_en : selectedPerson.name"
+                    class="profile-photo rounded-circle img-fluid">
               </div>
               <!-- Right: Bio -->
               <div class="col-md-8">
-                <h4 class="mb-3">
+                <h4 class="mb-3 modal-title-anek">
                   {{ currentLang === 'en' ? selectedPerson.name_en : selectedPerson.name }}
                 </h4>
-                <p class="bio-text">
+                <p class="bio-text bio-manjari">
                   {{ currentLang === 'en' ? selectedPerson.bio_en : selectedPerson.bio }}
                 </p>
               </div>
@@ -224,6 +224,37 @@ export default {
 
 <style>
 @import 'bootstrap/dist/css/bootstrap.min.css';
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100..800&family=Manjari:wght@100;400;700&display=swap');
+
+/* Font classes for modal */
+.modal-title-anek {
+  font-family: "Anek Malayalam", sans-serif;
+  font-weight: 700;
+  font-width: 75; /* Bold Condensed width setting */
+  font-size: 1.75rem;
+  letter-spacing: -0.02em;
+}
+
+.bio-manjari {
+  font-family: "Manjari", sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .modal-title-anek {
+    font-size: 1.5rem;
+  }
+
+  .bio-manjari {
+    font-size: 1rem;
+  }
+}
+
 
 /* Critical: Set html and body to 100% height */
 html, body {
@@ -236,7 +267,7 @@ html, body {
 }
 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  /*font-family: Avenir, Helvetica, Arial, sans-serif; */
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -355,7 +386,7 @@ html, body {
 .bio-text {
   font-size: 1.1rem;
   line-height: 1.8;
-  text-align: justify;
+  text-align: left;
 }
 
 .modal-backdrop {
@@ -379,7 +410,6 @@ html, body {
 }
 
 .idle-video {
-  width: 100%;
   height: 100%;
   object-fit: cover;
 }
